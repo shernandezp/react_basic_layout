@@ -1,0 +1,11 @@
+{
+    "login": {
+        "loginHeadText": ["Member Login", "Ingreso al Sistema"],
+        "placeholderUser": ["Email", "Correo Electrónico"],
+        "placeholderPassword": ["Password", "Contraseña"]
+    },
+    "forms": {
+        "dashboardTitle": ["Dashboard", "Tablero"],
+        "mapsTitle": ["Maps", "Mapas"]
+    }
+}
